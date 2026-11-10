@@ -1,0 +1,11 @@
+{
+  "name": "technical-sbar-communication",
+  "description": "Technical SBAR communication templates and patterns",
+  "owner": { "name": "akashskypatel" },
+  "plugins": [
+    {
+      "name": "technical-sbar-communication",
+      "source": "./"
+    }
+  ]
+}

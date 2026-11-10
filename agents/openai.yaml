@@ -1,0 +1,4 @@
+interface:
+  display_name: "Technical SBAR Communication"
+  short_description: "Structure actionable engineering updates and handoffs"
+  default_prompt: "Use $technical-sbar-communication to turn the following technical information into a concise, evidence-grounded SBAR update with a specific next action."

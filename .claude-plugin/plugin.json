@@ -1,0 +1,7 @@
+{
+  "name": "technical-sbar-communication",
+  "description": "Technical SBAR communication templates and patterns",
+  "author": { "name": "akashskypatel" },
+  "repository": "https://github.com/akashskypatel/technical-sbar-communication",
+  "license": "MIT"
+}

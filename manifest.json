@@ -1,0 +1,86 @@
+{
+  "manifest_format": "technical-sbar-distribution/v1",
+  "name": "technical-sbar-communication",
+  "version": "1.0.0",
+  "description": "Evidence-grounded SBAR communication for technical and software-development work.",
+  "artifact_type": "codex-skill",
+  "skill_entrypoint": "SKILL.md",
+  "codex_interface": "agents/openai.yaml",
+  "files": [
+    {
+      "path": ".claude-plugin/marketplace.json",
+      "sha256": "4ab1fc8cea729a52f40960d320ff8e316bb88b812c6a36533824134366fee780",
+      "size_bytes": 255
+    },
+    {
+      "path": ".claude-plugin/plugin.json",
+      "sha256": "a37c5f3bcf2342d23b90f09afe107b609ee858aa3f58ae79b0ecf951fb7d586a",
+      "size_bytes": 258
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "3f8d5e653e65b9264368d4c373aafe3632e8368767773f6a68d9263b0d2e768d",
+      "size_bytes": 4713
+    },
+    {
+      "path": ".tools/regenerate_manifest.py",
+      "sha256": "9fbb7b3197fc0a27ce76cb56927615665f84f310fba8a967011cdd87787b9c92",
+      "size_bytes": 3971
+    },
+    {
+      "path": "README.md",
+      "sha256": "2e3dc39f2359ea0184f793fadf4cd1c9f415e3cd2e08a3256646979bb9f7f219",
+      "size_bytes": 1409
+    },
+    {
+      "path": "SKILL.md",
+      "sha256": "2a81673cd08e5a268a2e1d0d6d1ee8986e511119380ebd4426be99656e00331b",
+      "size_bytes": 5292
+    },
+    {
+      "path": "agents/openai.yaml",
+      "sha256": "5b6a43845be49b6dbc091facc59bb1542346a5a367576fbc74fde08d919f864c",
+      "size_bytes": 308
+    },
+    {
+      "path": "references/examples.md",
+      "sha256": "b0833ba893da987fdaad63993c856a67e83d394547194f952cd5282889d79c63",
+      "size_bytes": 4938
+    },
+    {
+      "path": "references/usage-patterns.md",
+      "sha256": "9c5a689ce00c8b911b521eee83422ea5b8051ab5a6b73b3ad2d5d5972d4c8c78",
+      "size_bytes": 4818
+    },
+    {
+      "path": "scripts/validate_sbar.py",
+      "sha256": "0c9a1d61ea243c1d21c5c69b3cd96aa5c3327ba25c5fce8dcd0687720b4b116b",
+      "size_bytes": 10224
+    },
+    {
+      "path": "templates/decision-request.md",
+      "sha256": "ddedc2ae133b2c1b726bdf9db147425cb1dc05f18faf56fb5c37c0f437cfc3b4",
+      "size_bytes": 752
+    },
+    {
+      "path": "templates/engineering-handoff.md",
+      "sha256": "31570b1f7b94189577f6ba0045d098f51084a67b2dd83cd70cd6d4b4f39d49bd",
+      "size_bytes": 1002
+    },
+    {
+      "path": "templates/incident-escalation.md",
+      "sha256": "6a9385fd9a6545ab8bf4eb4f01901dfd267810ddbe7c6b257ea1b129302f3276",
+      "size_bytes": 1102
+    },
+    {
+      "path": "templates/quick-update.md",
+      "sha256": "42dcc3c0cf957a5cbd2663d8cbe4946262b199f79deef1f96c49a0c6749f40c7",
+      "size_bytes": 680
+    },
+    {
+      "path": "templates/review-finding.md",
+      "sha256": "5afe08de41f8533e46b089667607b54d193d93064b2223081215c409210382b4",
+      "size_bytes": 661
+    }
+  ]
+}
