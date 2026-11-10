@@ -19,8 +19,8 @@
     },
     {
       "path": ".gitignore",
-      "sha256": "3f8d5e653e65b9264368d4c373aafe3632e8368767773f6a68d9263b0d2e768d",
-      "size_bytes": 4713
+      "sha256": "a712e1e23a64874d564c206e102f3616900763c8940a821f15d13396ce2ffd7f",
+      "size_bytes": 4699
     },
     {
       "path": ".tools/regenerate_manifest.py",
